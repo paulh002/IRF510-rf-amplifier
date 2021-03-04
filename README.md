@@ -2,7 +2,7 @@
 
 This amplifier was designed as a pspice simulation project. Later I have build and tested it.
 The goal was to see if sources of distortion could be found and how certain components infuence the linearity of the amplifier.
-In the simulation schematic extra components are added to simulate loss in the transformers. Changing these loss components gave rise to more or less distrortion
+In the simulation schematic extra components are added to simulate loss in the transformers. Changing these loss components give rise to more or less distrortion
 
 
 
