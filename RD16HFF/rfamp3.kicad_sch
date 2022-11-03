@@ -2091,7 +2091,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d85cc4a)
     (property "Reference" "R10" (id 0) (at 143.51 106.5022 90))
-    (property "Value" "22" (id 1) (at 143.51 108.8136 90))
+    (property "Value" "10" (id 1) (at 143.51 108.8136 90))
     (property "Footprint" "Resistor_SMD:R_2512_6332Metric" (id 2) (at 143.51 109.982 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3535,7 +3535,7 @@
       (reference "R9") (unit 1) (value "4.7") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005d85cc4a"
-      (reference "R10") (unit 1) (value "22") (footprint "Resistor_SMD:R_2512_6332Metric")
+      (reference "R10") (unit 1) (value "10") (footprint "Resistor_SMD:R_2512_6332Metric")
     )
     (path "/00000000-0000-0000-0000-00005d9ed916"
       (reference "R11") (unit 1) (value "220") (footprint "Resistor_SMD:R_2512_6332Metric")
